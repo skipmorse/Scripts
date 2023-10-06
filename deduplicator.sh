@@ -32,3 +32,4 @@ find $STARTPATH -iname "*" -type f | while read file
 sleep 20	
 done
 #set +x
+#srfasdf
